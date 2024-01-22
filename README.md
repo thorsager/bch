@@ -7,7 +7,7 @@ _I have had this laying around for a while and decided to publish it.. perhaps i
 
 ```bash
 git git@github.com:thorsager/bch.git
-ce bch
+cd bch
 make install
 ```
 
