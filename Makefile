@@ -4,5 +4,8 @@ BINARY_NAME=bch
 build:
 	go build -o $(BINARY_NAME) -v
 
+install:
+	go install -v
+
 clean:
 	go clean
